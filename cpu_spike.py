@@ -24,3 +24,5 @@ def simulate_cpu_spike(duration=30, cpu_percent=80):
 if __name__ == '__main__':
     # Simulate a CPU spike for 30 seconds with 80% CPU utilization
     simulate_cpu_spike(duration=30, cpu_percent=80)
+#Uage guide
+#https://www.youtube.com/watch?v=u4XngwbY-O0
